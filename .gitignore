@@ -1,0 +1,30 @@
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven 构建输出
+target/
+*.class
+*.jar
+*.war
+*.zip
+
+# Maven编译器日志
+*.log
+npm-debug.log*
+
+# 依赖目录
+dependency-reduced-pom.xml
+
+# 本地配置
+local.properties
+
+# Build 输出
+/bin/
+
+# 临时文件
+*.tmp
