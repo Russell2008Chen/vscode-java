@@ -7,6 +7,6 @@ public class FirstClass {
         System.out.println("这是我的第一个Java程序！-003: " + result);
         System.out.println("这是我的第一个Java程序！-002");
 
-        System.out.println("Hello End");
+        System.out.println("Hello End: v3");
     }
 }
